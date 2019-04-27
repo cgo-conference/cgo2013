@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2013 International Symposium on Code Generation and Optimization</title>
+	<atom:link href="http://localhost/cgo2013/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/cgo2013</link>
+	<description>Welcome to the Official Website of CGO 2013</description>
+	<lastBuildDate>Wed, 08 May 2013 02:26:52 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.3.1</generator>
+		<item>
+		<title>COSMIC will co-locate with CGO 2013</title>
+		<link>http://localhost/cgo2013/cosmic-will-co-locate-with-cgo-2013/</link>
+		<comments>http://localhost/cgo2013/cosmic-will-co-locate-with-cgo-2013/#comments</comments>
+		<pubDate>Thu, 06 Dec 2012 16:55:10 +0000</pubDate>
+		<dc:creator>cgo2013</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/cgo2013/?p=525</guid>
+		<description><![CDATA[COSMIC:international workshop on Code OptimiSation for MultI and many Cores will co-locate with CGO 2013. Here is a brief introduction about COSMIC.]]></description>
+			<content:encoded><![CDATA[<p><a href="http://workshops.inf.ed.ac.uk/cosmic/" target="_blank">COSMIC:international workshop on Code OptimiSation for MultI and many Cores</a> will co-locate with CGO 2013.</p>
+<p><a href="http://localhost/cgo2013/conference/workshops-and-tutorials/" target="_blank">Here</a> is a brief introduction about COSMIC.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/cgo2013/cosmic-will-co-locate-with-cgo-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Workshop and Tutorials Proposal Deadline: Dec 3,2012</title>
+		<link>http://localhost/cgo2013/workshop-and-tutorials-proposal-deadline-dec-32012/</link>
+		<comments>http://localhost/cgo2013/workshop-and-tutorials-proposal-deadline-dec-32012/#comments</comments>
+		<pubDate>Mon, 22 Oct 2012 07:10:35 +0000</pubDate>
+		<dc:creator>cgo2013</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://10.3.0.38/cgo2013/?p=456</guid>
+		<description><![CDATA[The workshop and tutorials proposal deadline of  CGO 2013  is Dec 3, 2012.]]></description>
+			<content:encoded><![CDATA[<p>The workshop and tutorials proposal deadline of  CGO 2013  is Dec 3, 2012.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/cgo2013/workshop-and-tutorials-proposal-deadline-dec-32012/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>APPLC-2 and ODES-10 will co-locate with CGO 2013</title>
+		<link>http://localhost/cgo2013/applc-2-and-odes-10-joined-cgo-2013/</link>
+		<comments>http://localhost/cgo2013/applc-2-and-odes-10-joined-cgo-2013/#comments</comments>
+		<pubDate>Fri, 28 Sep 2012 02:32:38 +0000</pubDate>
+		<dc:creator>cgo2013</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://10.3.0.38/cgo2013/?p=447</guid>
+		<description><![CDATA[APPLC-2(The second Asia-Pacific Programming Languages and Compilers Workshop (APPLC)) and ODES-10 (10th workshop on Optimizations for DSP and Embedded Systems )  will co-locate with CGO 2013. Here is a brief introduction about these two workshops.]]></description>
+			<content:encoded><![CDATA[<p>APPLC-2(<a href="http://applc13.iis.sinica.edu.tw/" target="_blank">The second Asia-Pacific Programming Languages and Compilers Workshop (APPLC)</a>) and ODES-10 (<a href="http://www.imec.be/odes/" target="_blank">10th workshop on Optimizations for DSP and Embedded Systems</a> )  will co-locate with CGO 2013.</p>
+<p><a href="http://localhost/cgo2013/conference/workshops-and-tutorials/" target="_blank">Here</a> is a brief introduction about these two workshops.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/cgo2013/applc-2-and-odes-10-joined-cgo-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CGO 2013 Paper submission website is online now</title>
+		<link>http://localhost/cgo2013/cgo-2013-paper-submission-website-is-online-now/</link>
+		<comments>http://localhost/cgo2013/cgo-2013-paper-submission-website-is-online-now/#comments</comments>
+		<pubDate>Sun, 26 Aug 2012 15:26:45 +0000</pubDate>
+		<dc:creator>cgo2013</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://10.3.0.38/cgo2013/?p=401</guid>
+		<description><![CDATA[Good Luck every one!]]></description>
+			<content:encoded><![CDATA[<p>Good Luck every one!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/cgo2013/cgo-2013-paper-submission-website-is-online-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CGO 2013 Website is alive</title>
+		<link>http://localhost/cgo2013/hello-world/</link>
+		<comments>http://localhost/cgo2013/hello-world/#comments</comments>
+		<pubDate>Fri, 02 Mar 2012 09:40:26 +0000</pubDate>
+		<dc:creator>cgo2013</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
+		<description><![CDATA[CGO 2013 website is based on the previous work  of Jason Mars, the CGO 2012&#8242;s webchair, . The whole website  is running on a modified version of  WordPress and twentyten theme.]]></description>
+			<content:encoded><![CDATA[<p>CGO 2013 website is based on the previous work  of <a href="http://jasonmars.org/">Jason Mars</a>, the CGO 2012&#8242;s webchair, . The whole website  is running on a modified version of  WordPress and twentyten theme.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://localhost/cgo2013/hello-world/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

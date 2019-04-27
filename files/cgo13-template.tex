@@ -1,0 +1,78 @@
+%-----------------------------------------------------------------------------
+%
+%               Template for CGO'13 LaTeX Class
+%
+% Name:         cgo13-template.tex
+%
+% Purpose:      A template for cgo13.cls, which is a LaTeX 2e class
+%               file for CGO'13 proceedings.
+%
+%               Adapted from sigplanconf.cls
+%-----------------------------------------------------------------------------
+
+
+\documentclass[10pt]{cgo13}
+
+\usepackage{amsmath}
+
+\begin{document}
+
+\conferenceinfo{CGO '13}{23-27 February 2013, Shenzhen China.} 
+\copyrightyear{2013} 
+\copyrightdata{978-1-4673-5525-4/13/\$31.00 \copyright2013 IEEE}
+
+\titlebanner{banner above paper title}        % These are ignored unless
+\preprintfooter{short description of paper}   % 'preprint' option specified.
+
+\title{Title Text}
+\subtitle{Subtitle Text, if any}
+
+\authorinfo{Name1}
+           {Affiliation1}
+           {Email1}
+\authorinfo{Name2\and Name3}
+           {Affiliation2/3}
+           {Email2/3}
+
+\maketitle
+
+\begin{abstract}
+This is the text of the abstract.
+\end{abstract}
+
+\category{CR-number}{subcategory}{third-level}
+
+\terms
+term1, term2
+
+\keywords
+keyword1, keyword2
+
+\section{Introduction}
+
+The text of the paper begins here.
+
+\appendix
+\section{Appendix Title}
+
+This is the text of the appendix, if you need one.
+
+\acks
+
+Acknowledgments, if needed.
+
+% We recommend abbrvnat bibliography style.
+
+\bibliographystyle{abbrvnat}
+
+% The bibliography should be embedded for final submission.
+
+\begin{thebibliography}{}
+\softraggedright
+
+\bibitem[Smith et~al.(2009)Smith, Jones]{smith02}
+P. Q. Smith, and X. Y. Jones. ...reference text...
+
+\end{thebibliography}
+
+\end{document}
